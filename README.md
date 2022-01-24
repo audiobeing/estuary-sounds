@@ -9,9 +9,12 @@ cd ~/samples
 !clearresources
 !defaultresources
 !reslist "https://audiobeing.github.io/estuary-sounds/samples/resources.json"
+!reslist "https://audiobeing.github.io/estuary-sounds/samples2/resources.json"
 
 !reset
 !insertsound "https://audiobeing.github.io/estuary-sounds/samples/ff6/ff6_9962.wav" ff6 0
+!insertsound "https://audiobeing.github.io/estuary-sounds/samples2/lau0/seg_13.wav" lau0 0
+
 !insertsound "https://complete-url-to-sound.wav" nameOfSampleBank 0
 
 ### misc commands
