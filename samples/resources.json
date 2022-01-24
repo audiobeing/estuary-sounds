@@ -1,5 +1,4 @@
 [
-{ "url":"2ff/2ff_9962.wav","type":"audio","bank":"2ff","n":0},
 { "url":"3ff/3ff_10000.wav","type":"audio","bank":"3ff","n":0},
 { "url":"3ff/3ff_9982.wav","type":"audio","bank":"3ff","n":1},
 { "url":"3ff/3ff_9983.wav","type":"audio","bank":"3ff","n":2},
@@ -71,5 +70,7 @@
 { "url":"9ff/9ff_9996.wav","type":"audio","bank":"9ff","n":32},
 { "url":"9ff/9ff_9997.wav","type":"audio","bank":"9ff","n":33},
 { "url":"9ff/9ff_9998.wav","type":"audio","bank":"9ff","n":34},
-{ "url":"9ff/9ff_9999.wav","type":"audio","bank":"9ff","n":35}
+{ "url":"9ff/9ff_9999.wav","type":"audio","bank":"9ff","n":35},
+{ "url":"ff2/2ff_9962.wav","type":"audio","bank":"ff2","n":0},
+{ "url":"ff2/2ff_9963.wav","type":"audio","bank":"ff2","n":1}
 ]
