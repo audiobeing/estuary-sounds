@@ -71,6 +71,7 @@
 { "url":"9ff/9ff_9997.wav","type":"audio","bank":"9ff","n":33},
 { "url":"9ff/9ff_9998.wav","type":"audio","bank":"9ff","n":34},
 { "url":"9ff/9ff_9999.wav","type":"audio","bank":"9ff","n":35},
-{ "url":"ff2/2ff_9962.wav","type":"audio","bank":"ff2","n":0},
-{ "url":"ff2/2ff_9963.wav","type":"audio","bank":"ff2","n":1}
+{ "url":"ff2/ff2_9962.wav","type":"audio","bank":"ff2","n":0},
+{ "url":"ff2/ff2_9963.wav","type":"audio","bank":"ff2","n":1},
+{ "url":"ff2/ff2_9964.wav","type":"audio","bank":"ff2","n":2}
 ]
