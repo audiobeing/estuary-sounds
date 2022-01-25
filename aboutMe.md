@@ -58,6 +58,19 @@
     <img src="assets/y_bs5.png" alt="drawing" width="70%" />
     <br/>
     <br/>
+- elemental agency (dance+media)
+<br/>
+    <img src="assets/y_ea1.png" alt="drawing" width="70%" />
+    <img src="assets/y_ea2.png" alt="drawing" width="70%" />
+        <img src="assets/y_ea3.png" alt="drawing" width="70%" />
+    <img src="assets/y_ea4.png" alt="drawing" width="70%" />
+    <br/>
+- skeuomorph
+<br/>
+    <img src="assets/y_skeuo1.png" alt="drawing" width="70%" />
+    <br/>
+    <img src="assets/y_gestconcat.png" alt="drawing" width="70%" />
+    <br/>
 - EAO: electro-acoustic orchestra
 <br/>
     <img src="assets/eao2.jpeg" alt="drawing" width="70%" />
