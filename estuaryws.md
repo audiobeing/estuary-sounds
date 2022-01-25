@@ -86,10 +86,19 @@
 `s "[voodoo voodoo:3, arpy arpy:4 arpy:2]"`
 
 ## IV. transforming patterns
-
+- play at the same time
 `s "[bd sn:2, hh*3 hh:3*2]"`
+
+### slow it down
+
 `slow 2 $ s "[bd sn:2, hh*3 hh:3*2]"`
+
+### speed it up
+
 `fast 2 $ s"[bd sn:2, hh hh:2*2]"`
+
+### have it happen every #
+
 `every 4 (fast 2) $ s "bd [~ sn]"`
 
 ## VI. longer samples and granulation(ish)
