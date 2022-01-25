@@ -28,6 +28,7 @@
 2. McMaster university: interfaces + live coding
     - composition +=> performance
     - live coding and programming in general (maxMSP, chuck->supercollider->tidal, javascript/node)
+    - laptop orchestras
     - creating/developing/using controllers, interfaces, GUIs
         - physical computing
     - phenomenology, actor-network theory (ANT)
@@ -42,4 +43,25 @@
     <br/>
     <br/>
 3. york university: 
+- embodied digital musical gesture
+- inevitability of objects
+<br/>
+    <img src="assets/y_ioo1.png" alt="drawing" width="70%" />
+    <img src="assets/y_ioo2.png" alt="drawing" width="70%" />
+    <br/>
+    <br/>
+- boundary study
+<br/>
+    <img src="assets/y_bs2.png" alt="drawing" width="70%" />
+    <img src="assets/y_bs3.png" alt="drawing" width="70%" />
+    <img src="assets/y_bs4.png" alt="drawing" width="70%" />
+    <img src="assets/y_bs5.png" alt="drawing" width="70%" />
+    <br/>
+    <br/>
+- EAO: electro-acoustic orchestra
+<br/>
+    <img src="assets/eao2.jpeg" alt="drawing" width="70%" />
+    <img src="assets/eao3.png" alt="drawing" width="70%" />
+    <br/>
+
 4. live coding 
