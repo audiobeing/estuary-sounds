@@ -35,12 +35,10 @@
     <img src="assets/jarvis_orbital_s.jpeg" alt="drawing" width="70%" />
     <img src="assets/jarvis_aphelion.jpeg" alt="drawing" width="70%" />
     <img src="assets/jarvis_apogee_s.jpeg" alt="drawing" width="70%" />
-    <img src="assets/jarvis_chronom_s.png" alt="drawing" width="70%" />
     <img src="assets/jarvis_thunderdrone_s.png" alt="drawing" width="70%" />
     <img src="assets/jarvis_touchosc.png" alt="drawing" width="70%" />
-    <img src="assets/jarvis_orbitalcode_s.png" alt="drawing" width="70%" />
     <img src="assets/jarvis_melodiccode_s.png" alt="drawing" width="70%" />
-    <img src="assets/jarvis_touchosc.png" alt="drawing" width="70%" />
+
     <br/>
     <br/>
 3. york university: 
