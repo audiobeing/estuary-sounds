@@ -14,6 +14,11 @@
 ### dropbox link
 use this [link](https://www.dropbox.com/request/0l8RIjdTwMvtDAlGHUwM) to send the files to my dropbox so I can upload them
 
+### estuary
+#### rough: things to cover
+- 
+
+
 ### adding files to estuary - more detail [here](addAudioToEstuary.md)
 1. put sound `banks` in `samples` folder in VSC
 2. in terminal from `samples` folder run: 
