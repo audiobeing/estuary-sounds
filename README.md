@@ -8,8 +8,9 @@
     - transforming patterns
     - transforming effect patterns
     - handling longer samples
-    - collaboration
+- potential
     - setting up and uploading local files 
+     - collaboration
 - discussion
 
 
@@ -56,6 +57,8 @@
 - !setcps 0.5 (is the default)
 - !setbmp 60 
 ### misc commands
+- !presetview  "threebyfive"
+    -  "threebysix"
 - !presetview roulette
 - !publishviews roulette
 - !resetviews

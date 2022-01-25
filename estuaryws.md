@@ -24,8 +24,16 @@
 <br/>
 <img src="assets/tidal-cycles.png" alt="drawing" width="70%" />
 <br/>
-<br/>
 
+### try adding *\# & /\#
+`s "bd*4"`
+`s "bd*4 hh*2"`
+`s "bd/2 hh*3"`
+### add ?
+`s "hh*16?"`
+- ?: 50/50 chance each of the 16 will occur in this situation
+### `Syntax`
+- when you see this by your editing window it means there is an error
 ### choose a sample from the sound `bank` using :\#
 `s "bd:2 bd:1 hh:0 bd sn bd:3 hh:2 hh:2"`
 ### we can change the cps (cycles per second) or bpm (beats per minute) in the estuary console
@@ -34,6 +42,93 @@
 
 `!setbmp 60` 
 - 1 beat per second (tempo in traditional music notation)
+
+### take a few moments to explore some other sounds
+#### short samples
+- variations on a theme (usualy percussion): `bd`, `sn`, `ht` 
+- full kit in the bank/folder: `odx`
+- phrase chopped up: `bip`, `tabla`, `auto`, `amencutup`
+- scales chopped up: `arpy`, `latibro`
+- more: `flick sid can metal future gabba sn mouth co gretsch mt arp h cp cr newnotes bass hc tabla bass0 hh bass1 bass2 oc bass3 ho odx diphone2 house off ht tink perc bd industrial pluck trump printshort jazz voodoo birds3 procshort blip drum jvbass psr wobble`
+
+## II. **adding effects**
+
+`s "bd sn:2  bd:2 hh*2" # vowel "a"`
+
+`s "bd sn:2  bd:2 hh*2" # vowel "a e i o u"`
+- the pattern comes from the left side
+
+`s "bd sn:2  bd:2 hh*2" # pan "0 0.25 0.75 1"`
+- pan is between 0 and 1
+
+`s "bd sn:2  bd:2 hh*2" # speed "2 0.25 0.75 1"`
+`s "bd sn:2  bd:2 hh*2" # gain "1 0.25 0.75 1"`
+
+## III. patterns/sequences and subsequences
+### Fit a subsequence into a step with square brackets:
+
+`s "bd [bd cp] bd bd"`
+
+### This can make for flexible time signatures:
+
+`s "[bd bd sn:5] [bd sn:3]"`
+
+### You can put subsequences inside subsequences:
+`s "[[bd bd] bd sn:5] [bd sn:3]"`
+
+### Keep going..
+`s "[[bd [bd bd bd bd]] bd sn:5] [bd sn:3]"`
+
+### Polymetric / polyrhythmic sequences
+
+### Play two subsequences at once by separating with a comma:
+
+`s "[voodoo voodoo:3, arpy arpy:4 arpy:2]"`
+
+## IV. transforming patterns
+
+`s "[bd sn:2, hh*3 hh:3*2]"`
+`slow 2 $ s "[bd sn:2, hh*3 hh:3*2]"`
+`fast 2 $ s"[bd sn:2, hh hh:2*2]"`
+`every 4 (fast 2) $ s "bd [~ sn]"`
+
+## VI. longer samples and granulation(ish)
+- some long samples (koy sax ade alex alone bev pad)
+
+### chop
+
+`s "bev"`
+- when you stop it, it keeps playing through
+
+### chop it into bits:
+
+`chop 32 $ s "bev"`
+
+### slow it down to fit 8 cycles:
+`loopAt 8 $ chop 128 $ s "bev"`
+
+### transform the grain pattern:
+
+`rev $ loopAt 8 $ chop 128 $ s "bev"`
+
+### striate vs chop
+
+`slow 4 $ chop 4 $ s "arpy:1 arpy:2 arpy:3 arpy:4"`
+
+`slow 4 $ striate 4 $ s "arpy:1 arpy:2 arpy:3 arpy:4"`
+
+## Arbitrariness and 'random numbers'
+
+#### randslice
+`randslice 1128 $ s "bev*16"`
+
+#### random sample
+`s "arpy*8" # n (irand 16)`
+
+#### degradeBy
+`degradeBy 0.5 $ s "bd sn cp sn:2"`
+
+## VII. collaborative strategies
 
 
 
