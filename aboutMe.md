@@ -1,10 +1,18 @@
 # ian jarvis
+<details open >
+<summary>click to collapse/expand section</summary>
+
 - PhD candidate @ york university in toronto, ont
     - teach intro to comp sci-logic and coding @ ocad (javascript)
     - into making music+sound+art, web technologies
 - research focus: embodied digital musical gesture
-- research creation, practic-based research, 
+- research creation, practic-based research
+</details>
+
 # I. SFU simon fraser university: ea composition 
+<details open >
+<summary>click to collapse/expand section</summary>
+
 - started in physics and moved to ea composition
 - making/composing music with technology (studio based => computer.laptop music [daw]) 
     - became facinated with how new technology opens up new music making possibilities
@@ -25,8 +33,12 @@
 <img src="assets/computermusicdisciplines.png" alt="drawing" width="70%" />
 <br/>
 <br/>
+</details>
 
 # II. McMaster university: interfaces + live coding
+<details open >
+<summary>click to collapse/expand section</summary>
+
 - composition +=> performance
 - live coding and programming in general (maxMSP, chuck->supercollider->tidal, javascript/node)
 - laptop orchestras
@@ -44,7 +56,12 @@
 <br/>
 <br/>
 
+</details>
+
 # III. york university: 
+<details open >
+<summary>click to collapse/expand section</summary>
+
 - embodied digital musical gesture
 ## inevitability of objects
 <br/>
@@ -70,7 +87,7 @@
         <img src="assets/y_ea3.png" alt="drawing" width="70%" />
     <img src="assets/y_ea4.png" alt="drawing" width="70%" />
     <br/>
-    
+
 ## skeuomorph
 <br/>
     <img src="assets/y_skeuo1.png" alt="drawing" width="70%" />
@@ -83,5 +100,7 @@
     <img src="assets/eao2.jpeg" alt="drawing" width="70%" />
     <img src="assets/eao3.png" alt="drawing" width="70%" />
     <br/>
+
+</details>
 
 # 4. live coding 
