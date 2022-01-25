@@ -59,9 +59,10 @@
 ### misc commands
 - !presetview  "threebyfive"
     -  "threebysix"
-- !presetview roulette
+- !presetview "fulltexteditor"
 - !publishviews roulette
 - !resetviews
+- "fulltexteditor"
 ### to do
 - create patch to segment a file into chunks - in max with mubu?
 ## samples to start: full list [here](samplesList.md)
