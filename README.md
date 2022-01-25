@@ -53,7 +53,8 @@ use this [link](https://www.dropbox.com/request/0l8RIjdTwMvtDAlGHUwM) to send th
 - !insertsound "https://audiobeing.github.io/estuary-sounds/samples/lau0/seg_3.wav" lau0 1
 
 - !insertsound "https://complete-url-to-sound.wav" nameOfSampleBank 0
-
+- !setcps 0.5 (is the default)
+- !setbmp 60 
 ### misc commands
 - !presetview roulette
 - !publishviews roulette
