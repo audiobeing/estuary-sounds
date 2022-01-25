@@ -1,8 +1,8 @@
 # samples list
 
-| bank     | # samples |
-|----------|-----------|
-| 808	        |7|
+| bank     | # samples |this|
+|----------|-----------|-----|
+| 808	        |7| what about this |
 | 909	       | 1|
 | 808bd	    |25|
 | 808cy	    |25|
