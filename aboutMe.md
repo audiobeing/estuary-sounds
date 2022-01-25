@@ -19,5 +19,29 @@
     - algorithmic composition 
     - multiscale composition (Roads: composition electronic music)
     - [physics-perception-cognition](assets/physicsPerceptionCognition.png)
+    <br/>
+    <img src="assets/physicsPerceptionCognition.png" alt="drawing" width="70%" />
+    <img src="assets/musicknowledgebase.png" alt="drawing" width="70%" />
+    <img src="assets/computermusicdisciplines.png" alt="drawing" width="70%" />
+    <br/>
+    <br/>
 2. McMaster university: interfaces + live coding
+    - composition +=> performance
+    - live coding and programming in general (maxMSP, chuck->supercollider->tidal, javascript/node)
+    - creating/developing/using controllers, interfaces, GUIs
+        - physical computing
+    - phenomenology, actor-network theory (ANT)
+        <br/>
+    <img src="assets/jarvis_orbital_s.jpeg" alt="drawing" width="70%" />
+    <img src="assets/jarvis_aphelion.jpeg" alt="drawing" width="70%" />
+    <img src="assets/jarvis_apogee_s.jpeg" alt="drawing" width="70%" />
+    <img src="assets/jarvis_chronom_s.png" alt="drawing" width="70%" />
+    <img src="assets/jarvis_thunderdrone_s.png" alt="drawing" width="70%" />
+    <img src="assets/jarvis_touchosc.png" alt="drawing" width="70%" />
+    <img src="assets/jarvis_orbitalcode_s.png" alt="drawing" width="70%" />
+    <img src="assets/jarvis_melodiccode_s.png" alt="drawing" width="70%" />
+    <img src="assets/jarvis_touchosc.png" alt="drawing" width="70%" />
+    <br/>
+    <br/>
 3. york university: 
+4. live coding 
