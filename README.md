@@ -1,4 +1,17 @@
-## estuary sample bank
+# live coding in estuary/tidalCycles
+## overview
+- about me
+- estuary
+    - start/stop sounds and sequences
+    - adding effects
+    - patterns/sequences and subsequences
+    - transforming patterns
+    - transforming effect patterns
+    - handling longer samples
+    - collaboration
+    - setting up and uploading local files 
+- discussion
+
 
 ### setting up files to add to estuary 
 - all audio files need to be .wav files - these are the format that work consistently with chrome which is the best for estuary

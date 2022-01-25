@@ -1,6 +1,6 @@
-# ian jarvis
+# ian jarvis: embodied digital musical gesture
 <details open >
-<summary>click to collapse/expand section</summary>
+<summary></summary>
 
 - PhD candidate @ york university in toronto, ont
     - teach intro to comp sci-logic and coding @ ocad (javascript)
@@ -11,11 +11,11 @@
 
 # I. SFU simon fraser university: ea composition 
 <details open >
-<summary>click to collapse/expand section</summary>
+<summary></summary>
 
 - started in physics and moved to ea composition
 - making/composing music with technology (studio based => computer.laptop music [daw]) 
-    - became facinated with how new technology opens up new music making possibilities
+- `became facinated with how new technology opens up new music making possibilities`
 - history of ea comp: 
     - musique concrete
     - elecktronische musik
@@ -37,7 +37,7 @@
 
 # II. McMaster university: interfaces + live coding
 <details open >
-<summary>click to collapse/expand section</summary>
+<summary></summary>
 
 - composition +=> performance
 - live coding and programming in general (maxMSP, chuck->supercollider->tidal, javascript/node)
@@ -60,7 +60,7 @@
 
 # III. york university: 
 <details open >
-<summary>click to collapse/expand section</summary>
+<summary></summary>
 
 - embodied digital musical gesture
 ## inevitability of objects
@@ -104,3 +104,10 @@
 </details>
 
 # IV. live coding 
+<details open >
+<summary></summary>
+
+
+- the performance practice of writing and modifying computer programs that generate music, visuals or other media in real time . Often this occurs in a live performance situation with the code source projected
+- live programming: edit-save-compile-execute
+</details>
