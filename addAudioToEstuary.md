@@ -1,4 +1,4 @@
-### adding files to estuary process
+### ROUGH+INCOMPLETE: adding files to estuary process
 1. the quickest way to add files so they are accessible to estuary (due to CORS) is to upload the files to a github pages site.
 1. in your IDE (Visual Studio Code) create `samples` folder you haven't already 
 1. There are currently two ways to add files on the fly (not having to refresh estuary - though this is not the end of the world)
